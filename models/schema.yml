@@ -1,0 +1,11 @@
+version: 2
+
+models:
+    - name: dim_customer
+      description: "model"
+    
+    - name: fct_orders
+      description: "sum finding from customer"
+    
+
+

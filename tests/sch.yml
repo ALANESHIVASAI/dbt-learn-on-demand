@@ -1,0 +1,5 @@
+version: 2
+
+models:
+    - name: amount_is_a_positive
+      description: "positive_test"
