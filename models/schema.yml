@@ -6,6 +6,7 @@ models:
     
     - name: fct_orders
       description: "sum finding from customer"
-    
+    - name: int_orders_pivoted
+      description: "amount gained"
 
 
